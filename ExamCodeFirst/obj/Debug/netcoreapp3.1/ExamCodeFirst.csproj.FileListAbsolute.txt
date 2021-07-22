@@ -1,0 +1,4 @@
+C:\Users\ЗияшИ\source\repos\ExamCodeFirst\ExamCodeFirst\obj\Debug\netcoreapp3.1\ExamCodeFirst.csprojAssemblyReference.cache
+C:\Users\ЗияшИ\source\repos\ExamCodeFirst\ExamCodeFirst\obj\Debug\netcoreapp3.1\ExamCodeFirst.AssemblyInfoInputs.cache
+C:\Users\ЗияшИ\source\repos\ExamCodeFirst\ExamCodeFirst\obj\Debug\netcoreapp3.1\ExamCodeFirst.AssemblyInfo.cs
+C:\Users\ЗияшИ\source\repos\ExamCodeFirst\ExamCodeFirst\obj\Debug\netcoreapp3.1\ExamCodeFirst.csproj.CoreCompileInputs.cache
